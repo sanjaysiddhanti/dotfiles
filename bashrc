@@ -2,6 +2,7 @@ alias activate="source .venv/bin/activate"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
+alias v="vim"
 alias gdel="git branch -D"
 alias gb="git branch"
 export HISTSIZE=
