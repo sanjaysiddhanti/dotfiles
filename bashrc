@@ -5,6 +5,7 @@ alias ....="cd ../../.."
 alias v="vim"
 alias gdel="git branch -D"
 alias gb="git branch"
+alias python="python3"
 export HISTSIZE=
 export HISTFILESIZE=
 export HISTFILE=/Users/$USER/.bash_eternal_history
