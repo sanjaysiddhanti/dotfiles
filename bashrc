@@ -11,7 +11,7 @@ alias gc="git commit -m"
 alias python="python3"
 export HISTSIZE=
 export HISTFILESIZE=
-export HISTFILE=/Users/$USER/.bash_eternal_history
+export HISTFILE=$HOME/.bash_eternal_history
 export PROMPT_COMMAND="history -a; history -c; history -r; ${PROMPT_COMMAND}"
 function gpush() {
     force=false
