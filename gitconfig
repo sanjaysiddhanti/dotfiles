@@ -1,2 +1,8 @@
 [branch]
         autoSetupMerge = always
+[user]
+        name = Sanjay Siddhanti
+        email = sanjay.siddhanti@gmail.com
+[push]
+        default = simple
+[editor]
