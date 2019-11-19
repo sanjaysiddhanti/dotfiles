@@ -8,6 +8,7 @@ alias gb="git branch"
 alias gs="git status"
 alias ga="git add"
 alias gc="git commit -m"
+alias gd="git diff"
 alias python="python3"
 export HISTSIZE=
 export HISTFILESIZE=
